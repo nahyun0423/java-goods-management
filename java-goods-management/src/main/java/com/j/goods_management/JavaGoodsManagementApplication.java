@@ -10,5 +10,4 @@ public class JavaGoodsManagementApplication {
 		SpringApplication.run(JavaGoodsManagementApplication.class, args);
 	}
 
-
 }
